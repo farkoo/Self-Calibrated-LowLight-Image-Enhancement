@@ -1,7 +1,7 @@
 # Self-Calibrated Low-Light Image Enhancement
 
 
-This repository contains the implementation of the paper [**"Revealing Shadows: Low-Light Image Enhancement Using Self-Calibrated Illumination"**](https://arxiv.org/abs/2312.15199). If you have any questions or need assistance with understanding the code or the concepts discussed in the paper, feel free to reach out.
+This repository contains the implementation of our paper [**"Revealing Shadows: Low-Light Image Enhancement Using Self-Calibrated Illumination"**](https://arxiv.org/abs/2312.15199). If you have any questions or need assistance with understanding the code or the concepts discussed in the paper, feel free to reach out.
 
 ------------------------------------------------
 
