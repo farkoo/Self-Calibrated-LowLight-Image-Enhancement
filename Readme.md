@@ -1,7 +1,7 @@
 # Self-Calibrated Low-Light Image Enhancement
 
 
-This repository contains the implementation of the article **"Revealing Shadows: Low-Light Image Enhancement Using Self-Calibrated Illumination"**. If you have any questions or need assistance with understanding the code or the concepts discussed in the article, feel free to reach out.
+This repository contains the implementation of the paper [**"Revealing Shadows: Low-Light Image Enhancement Using Self-Calibrated Illumination"**](https://arxiv.org/abs/2312.15199). If you have any questions or need assistance with understanding the code or the concepts discussed in the paper, feel free to reach out.
 
 ------------------------------------------------
 
@@ -33,6 +33,8 @@ In digital imaging, enhancing visual content in poorly lit environments is a sig
   <figcaption>Block Diagram of our method, illustrating the low-light image enhancement process using SCI: starting from the import of the original RGB image, conversion to another color space that can extract the illumination component, application of the SCI enhancement techniques to the illumination component, and recombination with the other original components to produce the final enhanced image</figcaption>
 </figure>
 
+جدول مقایسه نتایججججججججججججججججج
+
 ### Visual comparison of the efficiency of the proposed method
 <figure>
   <p align="center">
@@ -40,3 +42,9 @@ In digital imaging, enhancing visual content in poorly lit environments is a sig
   </p>
   <figcaption>Comparative visualization of the proposed method's performance using an image from the LOL dataset. The sequence from left to right displays the original low-light image, the image enhanced by our method, and the reference normal-light image for comparison.</figcaption>
 </figure>
+
+نتیجه گیریییییییییییییییییییییییییییییییی
+
+citation
+
+اطلاعات تماسسسسسسسسسسس
