@@ -8,7 +8,7 @@ This repository contains the implementation of the article **"Revealing Shadows:
 In digital imaging, enhancing visual content in poorly lit environments is a significant challenge, as images often suffer from inadequate brightness, hidden details, and an overall reduction in quality. This issue is especially critical in applications like nighttime surveillance, astrophotography, and low-light videography, where clear and detailed visual information is crucial. Our research addresses this problem by enhancing the illumination aspect of dark images. We have advanced past techniques by using varied color spaces to extract the illumination component, enhance it, and then recombine it with the other components of the image. By employing the Self-Calibrated Illumination method, a strategy initially developed for RGB images, we effectively intensify and clarify details that are typically lost in low-light conditions. This method of selective illumination enhancement leaves the color information intact, thus preserving the color integrity of the image. Crucially, our method eliminates the need for paired images, making it suitable for situations where they are unavailable. Implementing the modified SCI technique represents a substantial shift from traditional methods, providing a refined and potent solution for low-light image enhancement. Our approach sets the stage for more complex image processing techniques and extends the range of possible real-world applications where accurate color representation and improved visibility are essential.
 
 
-Analysis of the brightness and color components within the HSV color space for a selected image from the LOL dataset
+### HSV Analysis
 <figure>
   <p align="center">
     <img src="https://github.com/farkoo/Self-Calibrated-LowLight-Image-Enhancement/blob/master/HSV.jpg" alt="Block Diagram">
@@ -17,10 +17,10 @@ Analysis of the brightness and color components within the HSV color space for a
 </figure>
 
 
-Investigation of the luminance and color channels in the YCbCr color space within a selected image from the LOL dataset
+### YCbCr Analysis
 <figure>
   <p align="center">
-    <img src="https://github.com/farkoo/Self-Calibrated-LowLight-Image-Enhancement/blob/master/YCbCr.png" alt="Block Diagram">
+    <img src="https://github.com/farkoo/Self-Calibrated-LowLight-Image-Enhancement/blob/master/YCbCr.jpg" alt="Block Diagram">
   </p>
   <figcaption>Investigation of the luminance and color channels in the YCbCr color space within a selected image from the LOL dataset. Top row: Reference image with detailed Y, Cr, Cb channels and balanced histograms. Bottom row: Low-light image with a compressed Y channel, approximately consistent Cr, Cb channels, and histograms illustrating the need for luminance enhancement.</figcaption>
 </figure>
