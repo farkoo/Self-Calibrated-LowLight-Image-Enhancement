@@ -54,7 +54,8 @@ In digital imaging, enhancing visual content in poorly lit environments is a sig
   <figcaption>Comparative visualization of the proposed method's performance using an image from the LOL dataset. The sequence from left to right displays the original low-light image, the image enhanced by our method, and the reference normal-light image for comparison.</figcaption>
 </figure>
 
-نتیجه گیریییییییییییییییییییییییییییییییی
+## Conclusion
+In conclusion, our research aimed to enhance low-light images by adapting the Self-Calibrated Illumination (SCI) method to a color space that allows for the isolation of the luminance component. This strategy effectively reduced noise and color distortion, common challenges in enhancing low-light images. Our experiments, conducted using the LOL and LOL-v2 Real datasets, showcased the superiority of our method, with our results surpassing those of several established techniques in the field. Moreover, this work presents a robust solution for low-light image enhancement and lays the groundwork for future research to improve further and build upon these methodologies. 
 
 citation
 
