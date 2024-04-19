@@ -72,6 +72,6 @@ Telegram id:
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
-[MIT](https://github.com/farkoo/Mask-Detection-pt/blob/master/LICENSE)
+[MIT](https://github.com/farkoo/Self-Calibrated-LowLight-Image-Enhancement/blob/master/LICENSE)
 &#0169; 
 [Farzaneh Koohestani](https://github.com/farkoo)
