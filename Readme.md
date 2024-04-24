@@ -36,7 +36,7 @@ In digital imaging, enhancing visual content in poorly lit environments is a sig
 ### Comparison with State-of-the-art
 <figure>
   <p align="center">
-    <img src="https://github.com/farkoo/Preserving-Details-in-Darkness/blob/master/LOL%20result.png" alt="Block Diagram" style="width: 80%; height: 80%;">
+    <img src="https://github.com/farkoo/Self-Calibrated-LowLight-Image-Enhancement/blob/master/LOL%20Result.png" alt="Block Diagram">
   </p>
 </figure>
 
